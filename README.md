@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sethclover and I'm currently pursuing a Software Engineering Degree at Iowa State!
+- 👀 I’m interested in expanding and developing my skillset in coding software systems.
+- 📫 How to reach me: sclover@iastate.edu
