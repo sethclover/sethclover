@@ -1,7 +1,8 @@
-# Hey, I'm Seth Clover <!-- ![](https://media.tenor.com/qGMFl3TTip8AAAAi/billy-srgrafo.gif) -->
+# Hey, I'm Seth Clover ![](https://media.tenor.com/8iCVHQqOudcAAAAi/wave-billy.gif)
 **`Software Engineer`**
 
 🏫  I'm currently pursuing a Software Engineering and Philosophy undergraduate degree at Iowa State University<br>
+🖥️  I have a passion for the creativity and logic that drives the innovative implications of technology<br>
 🧑‍💼  Currently searching for an internship opportunity for Summer 2025<br>
 👉  You can easily reach me at [sclover@iastate.edu](mailto:sclover@iastate.edu)  or connect with me on my [LinkedIn](https://www.linkedin.com/in/sethclover/)<br>
 
