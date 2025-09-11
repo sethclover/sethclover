@@ -5,7 +5,7 @@
 🖥️  I am dedicated to using creativity and logic the drive the innovative implications of technology<br>
 🧑‍💼  Currently searching for full-time and internship opportunities for the Summer of 2026 as a new graduate <br>
 👉  You can easily reach me at [sclover@iastate.edu](mailto:sclover@iastate.edu)  or connect with me on my [LinkedIn](https://www.linkedin.com/in/sethclover/)<br>
-📜  And... you can easily download my resume right [here](resume.pdf) ⬅️<br>
+📜  And... you can easily download my resume right [here](SethCloverResume.pdf) ⬅️<br>
 
 ### Languages
   <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
